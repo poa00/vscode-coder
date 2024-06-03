@@ -1629,9 +1629,9 @@ co@3.1.0:
   resolved "https://registry.yarnpkg.com/co/-/co-3.1.0.tgz#4ea54ea5a08938153185e15210c68d9092bc1b78"
   integrity sha512-CQsjCRiNObI8AtTsNIBDRMQ4oMR83CzEswHYahClvul7gKk+lDQiOKv+5qh7LQWf5sh6jkZNispz/QlsZxyNgA==
 
-"coder@https://github.com/coder/coder#main":
+"coder@https://github.com/coder/coder#2.11.2":
   version "0.0.0"
-  resolved "https://github.com/coder/coder#9eb797eb5a2bfb115db1fe8eccad78908a5f8ec1"
+  resolved "https://github.com/coder/coder#d53c94b32a0f4336bb583ee4327cd880479476b5"
   dependencies:
     exec "^0.2.1"
 
